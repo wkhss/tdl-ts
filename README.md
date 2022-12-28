@@ -6,3 +6,4 @@ this project test study [type-challenges](https://github.com/type-challenges/typ
 2. study hello-world || 4-easy-pick 
 3. study 7-easy-readonly
 4. study 11-easy-tuple-to-object
+5. study 14-easy-first
